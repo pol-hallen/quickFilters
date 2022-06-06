@@ -9,7 +9,7 @@
     "message": "Seleziona un account:"
   },
   "active-version-info": {
-    "description": "The boldStart and boldEnd parts will be replaced with html tags",
+    "description": "Le boldStart and boldEnd parts will be replaced with html tags",
     "message": "Stai ora eseguendo la {boldStart} versione $addonVer$ {boldEnd} su Thunderbird $appVer$.",
     "placeholders": {
       "addonVer": {
